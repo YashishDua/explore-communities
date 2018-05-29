@@ -8,7 +8,7 @@ https://medium.com/@yashishdua/explore-communities-a98233c2d6a6
 
 ### Important
 
-> I keep updating this repository as soon as I get to know about any event. I **recommend** community members to create an issue to submit your event here. This will help me as well you to list your event early here!
+I keep updating this repository as soon as I get to know about any event. I **recommend** community members to create an issue to submit your event here. This will help me as well you to list your event early here!
 
 ### `Latest Events`
 
