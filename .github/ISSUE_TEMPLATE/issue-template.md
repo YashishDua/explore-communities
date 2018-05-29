@@ -4,10 +4,12 @@ about: Follow this template to create an issue for describing your event
 
 ---
 
-***Community Name***
+###Community Name
 
-***Community Description (Including Date, Time and Venue)***
+### Event Name
 
-***Event Description***
+### Event Description
 
-***Contact Details***
+### Event Date and Time
+
+### Link
