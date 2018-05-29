@@ -9,8 +9,12 @@ https://medium.com/@yashishdua/explore-communities-a98233c2d6a6
 ### Important
 
 I keep updating this repository as soon as I get to know about any event. I **recommend** community members to create an issue to submit your event here. This will help me as well you to list your event early here!
+<br>
 
-### `Latest Events`
+### Star to get updates!
+[![GitHub stars](https://img.shields.io/github/stars/yashishdua/explore-communities.svg?style=social&label=Star)](https://github.com/YashishDua/explore-communities) [![GitHub forks](https://img.shields.io/github/forks/yashishdua/explore-communities.svg?style=social&label=Fork)](https://github.com/yashishdua/explore-communities/fork) [![GitHub followers](https://img.shields.io/github/followers/yashishdua.svg?style=social&label=Follow)](https://github.com/yashishdua/explore-communities)
+
+# `Latest Events`
 
 ### June 2018
 
