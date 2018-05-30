@@ -4,7 +4,7 @@ about: Follow this template to create an issue for describing your event
 
 ---
 
-###Community Name
+### Community Name
 
 ### Event Name
 
