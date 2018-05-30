@@ -1,4 +1,4 @@
-#Hack in North
+# Hack in North
 
 ### Annual hackathon hosted by IIIT-Allahabad
 
