@@ -2,6 +2,8 @@
 Repository which brings all communitites together to empower collaborative learning
 Below are the most latest tech events which are going to happen soon. To see detailed list of events of any community you can go to their particular folders in Code Section.
 
+``` Soon to be Added: Hackathons and Scholarships ```
+
 ### Why do we need this repository?
 
 https://medium.com/@yashishdua/explore-communities-a98233c2d6a6
