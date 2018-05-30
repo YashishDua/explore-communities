@@ -24,4 +24,5 @@ Name | Community | Date | Time | Link
 --- | --- | --- | --- | ---
 Community Challenge 2018 Team Building | Facebook Developer Circle: Delhi, NCR | 2-June-2018 | 11AM - 5PM | [More Info](https://www.facebook.com/events/205436156737562/)
 Hands on Coding session VR | VR AR MR | 2-June-2018 | 3.30PM - 6PM | [More Info](https://www.facebook.com/events/173652486651334/)
-
+Geek Night Gurgaon | - | 31-may-2018 | 3.30PM - 7:30PM | - |
+ 
