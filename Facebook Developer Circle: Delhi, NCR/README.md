@@ -1,7 +1,10 @@
-### Community Official Group
-https://www.facebook.com/groups/DevCDelhiNCR/
+# Facebook Developer Circle: Delhi, NCR
 
-### `Latest Events`
+`Official Channels`
+
+[Facebook](https://www.facebook.com/groups/DevCDelhiNCR/)
+
+`Latest Events`
 
 ### June 2018
 
