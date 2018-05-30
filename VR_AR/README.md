@@ -1,15 +1,9 @@
----
-name: Hands on Coding session VR
-about: Follow this link : https://www.facebook.com/events/173652486651334/
+# AR VR MR
 
----
+# `Latest Events`
 
-### VR | AR Meetup
+### June 2018
 
-### Hands on coding session -VR Application
-
-### VR coding session 
-
-### 2nd June 2018 , Time : 3:30 pm-6:00pm
-
-### Link : https://www.facebook.com/events/173652486651334/
+Name | Community | Date | Time | Link
+--- | --- | --- | --- | ---
+Hands on Coding session VR | VR AR MR | 2-June-2018 | 3.30PM - 6PM| [More Info](https://www.facebook.com/events/173652486651334/)
