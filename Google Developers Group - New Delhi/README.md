@@ -1,4 +1,6 @@
-## Official Channels
+# Google Developers Group New Delhi
+
+`Official Channels`
 
 [Slack](https://gdgnd.slack.com) </br>
 [Facebook](https://www.facebook.com/gdgnewdelhi/) </br>
