@@ -6,4 +6,4 @@
 
 Name | Community | Date | Time | Link
 --- | --- | --- | --- | ---
-Hands on Coding session VR | VR AR MR | 2-June-2018 | 3.30PM - 6PM| [More Info](https://www.facebook.com/events/173652486651334/)
+Hands on Coding session VR | VR AR MR | 3-June-2018 | 11AM - 1PM| [More Info](https://www.facebook.com/events/173652486651334/)
